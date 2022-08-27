@@ -7,13 +7,7 @@
 <h5>💬 Sígueme en mis redes sociales: </h5>
 * [Github]: https://github.com/RebeccaAlme
 <br>
-* [Instagram]: https://www.instagram.com/rebeccalme/
-<br>
 * [linkedin]: https://www.linkedin.com/in/rebeccaalme/
-<br>
-* [twitter]: https://twitter.com/alme_rebecca
-<br>
-* [facebook]: https://www.facebook.com/petitebecka/
 <br>
 
   <img src="https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849822_960_720.jpg" width="300" height="150"/>
